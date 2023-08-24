@@ -1,7 +1,7 @@
 ---
 title: "Rebecca R."
 date: 2018-12-20T13:44:30+10:00
-image: "images/team/rebecca.PNG"
+image: "images/team/rebecca.png"
 jobtitle: "Kadiv Media"
 linkedinurl: ""
 weight: 3

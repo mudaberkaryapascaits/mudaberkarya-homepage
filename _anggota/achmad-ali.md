@@ -1,7 +1,7 @@
 ---
 title: "Achmad A."
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/achmad-a.jpg"
+image: "images/team/achmad-ali.JPG"
 jobtitle: "Ketua"
 linkedinurl: "https://www.linkedin.com/"
 promoted: true

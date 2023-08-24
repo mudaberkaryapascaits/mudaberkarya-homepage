@@ -1,7 +1,7 @@
 ---
 title: "Ahmad Qaedi"
 date: 2018-12-20T13:45:06+10:00
-image: "images/team/achmad-qaedi.PNG"
+image: "images/team/achmad-qaedi.png"
 jobtitle: "Kadiv KWU"
 weight: 5
 promoted: false
