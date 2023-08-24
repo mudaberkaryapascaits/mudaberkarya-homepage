@@ -1,0 +1,24 @@
+main:
+  - name: "Beranda"
+    url: "/"
+    weight: 1
+  - name: "Proker"
+    url: "/proker/"
+    weight: 2
+  - name: "Anggota"
+    url: "/anggota/"
+    weight: 3
+  - name: "Tentang"
+    url: "/tentang/"
+    weight: 4
+  - name: "Kontak"
+    url: "/kontak/"
+    weight: 5
+
+footer:
+  - name: "Beranda"
+    url: "/"
+    weight: 1
+  - name: "Kontak"
+    url: "/kontak/"
+    weight: 2

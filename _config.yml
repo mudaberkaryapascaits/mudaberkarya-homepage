@@ -1,0 +1,54 @@
+baseurl: ''
+permalink: pretty
+title: 'Muda Berkarya'
+
+logo:
+  mobile: "images/logo/logo-mobile.png"
+  mobile_height: "32px"
+  mobile_width: "32px"
+  desktop: "images/logo/logo.png"
+  desktop_height: "32px"
+  desktop_width: "32px"
+
+home: 
+  limit_services: 6
+
+collections:
+  proker:
+    output: true
+    sort_by: weight
+  anggota:
+    output: true
+  merch:
+    output: true
+    sort_by: weight
+
+defaults:
+  - scope:
+      path: ""
+      type: "proker"
+    values:
+      layout: "service"
+  - scope:
+      path: ""
+      type: "anggota"
+    values:
+      layout: "anggota"
+
+sass:
+  style: compressed # possible values: nested expanded compact compressed
+
+plugins:
+  - jekyll-environment-variables
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE.md
+  - LICENSE
+  - README.md

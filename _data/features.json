@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Transparan",
+    "description": "Bantuan Anda digunakan sepenuhnya unyuk pemberdayaan masyarakan melalui proker untuk kemudian dipublikasikan.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Komunitas Resmi",
+    "description": "Berdiri sejak 2019.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Rutin Berkontribusi",
+    "description": "Dengan program kerja baik untuk mahasiswa maupun masyarakat umum",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

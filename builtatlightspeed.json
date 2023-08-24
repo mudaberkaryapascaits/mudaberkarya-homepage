@@ -1,0 +1,12 @@
+{
+  "title": "Muda Berkarya",
+  "description": "Komunitas muda berkarya, pemberdayaan masyarakat dengan IPTEK",
+  "demoUrl": "https://www.instagram.com/itsmudaberkarya/",
+  "categories": {
+    "ssg": ["jekyll"],
+    "css": ["bootstrap", "scss"],
+    "archetype": ["business"],
+    "features": ["netlify", "github-pages"],
+    "blueprint": ["theme"]
+  }
+}
