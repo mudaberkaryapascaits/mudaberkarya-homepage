@@ -1,6 +1,7 @@
-baseurl: ''
+baseurl: '/mudaberkarya-homepage'
 permalink: pretty
 title: 'Muda Berkarya'
+url: 'http://mudaberkaryapascaits.github.io'
 
 logo:
   mobile: "images/logo/logo-mobile.png"
