@@ -6,7 +6,10 @@ permalink: "/donasi/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
-## Opsi
+## **Opsi**
+
+![Opsi donasi](/images/donasi.jpg)
+
 1. **Bank BRI** <br>
 1248010001583533 <br>
 a.n. Hanifah
