@@ -3,7 +3,7 @@ title: "Muda Berbagi: Berbagi Nasbung di Bulan Ramadhan 1444"
 date: 2018-11-18T12:33:46+10:00
 weight: 4
 ---
-![Ilustrasi nasi bungkus](/mudaberkarya-homepage/images/artikel1.jpg)
+![Ilustrasi nasi bungkus](/images/artikel1.jpg)
 
 Memanfaatkan momen di Bulan Ramadhan, Komunitas ITS Muda Berkarya mengadakan berbagai kegiatan selama Bulan suci Ramadhan.
 Adapun kegiatan yang dilakukan diantaranya adalah berbagi nasi bungkus untuk berbuka kepada masyarakat yang membutuhkan di lingkungan sekitar ITS, pada Minggu (26/3). Kegiatan diawali dengan persiapan nasi bungkus dengan jumlah 40 bungkus nasi lengkap dengan minuman air mineral yang dilakukan oleh para relawan dari Komunitas ITS Muda Berkarya. Setelah itu, nasi bungkus dibagikan kepada warga yang berada di sekitar wilayah kampus.
