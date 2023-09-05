@@ -1,7 +1,10 @@
 ---
 title: "Muda Berbagi: Berbagi Nasbung di Bulan Ramadhan 1444"
-date: 2018-11-18T12:33:46+10:00
-weight: 4
+written: "Jumat, 14 April 2023"
+author: "Batch VI"
+weight: 1
+reporter: "Batch VI"
+editor: "Batch VI"
 ---
 ![Ilustrasi nasi bungkus](/images/artikel1.jpg)
 

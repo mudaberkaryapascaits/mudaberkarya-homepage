@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Komunitas Muda Berkarya.
+# Komunitas ITS Muda Berkarya.
 
 Komunitas pemberdayaan masyarakat dengan menerapkan ilmu pengetahuan dan teknologi.

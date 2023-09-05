@@ -1,7 +1,8 @@
-baseurl: '/'
+baseurl: ''
 permalink: pretty
 title: 'Muda Berkarya'
-url: 'https://itsmudaberkarya.netlify.app'
+disqus: 'mudaberkarya'
+url: 'https://itsmudaberkarya.org'
 
 logo:
   mobile: "images/logo/logo-mobile.png"
